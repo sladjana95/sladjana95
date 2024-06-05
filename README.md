@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Slađana Klačar and I'm a Bachelor of Science in Mathematics and Information Technology. 🎓
 - 👀 I’m interested in Software Quality Assurance. I've recently gone through an Intern Mentoring Program by Symphony "The ABCs of QA".
   The QA seed's been planted and I'm on a mission to grow it beautifully.
-- 👩‍💻 I’m currently learning Python.
+- 👩‍💻 I’m currently learning JavaScript.
 - 💞️ Outside the world of tech, I'm a nature junkie ⛰, fungi connoisseur 🍄, photographer 📸 and a pretty good chef, if I do say so myself 👩‍🍳.
 - 📫 How to reach me:
 
